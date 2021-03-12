@@ -1,0 +1,21 @@
+footer{
+    position: relative;
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    }
+
+footer p{
+    display: inline;
+    color: white;
+    size: 0;
+}
+
+@media screen and (max-width: 360px){    
+    footer{
+        height: 100px;
+    }
+}
