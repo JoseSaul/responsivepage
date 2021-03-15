@@ -6,6 +6,7 @@ body{
 
 .window{
     position: relative;
+    display: flex;
     background-color: red;
     min-height: 93vh;
     min-width: 100vw;
